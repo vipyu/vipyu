@@ -1,0 +1,96 @@
+
+{
+    
+  "update": {
+    "title" : "更新",
+    "version" : "22.04.20",
+    "info" : "itemApiRegex获取参数改用{ItemApi}存储<br>支持某种特点的视频源<br>修复bug<br><font color=#FF0000>安装失败请卸载原版后重新安装，如无法在线升级 </font><br>请关注<font color=#FF0000>微信公众号:巧技 </font> 回复：易看 获取最新版",
+    "url" : "https://wwa.lanzoui.com/iA1vb045x44b",
+    "visible" : true,
+    "cancelable" : true
+  },
+  
+  "cecf0df7fc0e2972cee651419177ac87":"1fce7405e1e9e18543cd5095ce84a677",
+  "16b4c7dc0b7f86e533036d3222bf513f":"620345857628b8197a3f931f47b968ca",
+  "76e800de0f4052ad77c5b8dc741efdef":"2e1f06d0458395f790c1fdea5cdc8ce3",
+  "c481104876efc3709530eaa512186d9c":"ee2b5b6fd67426e664d3aa3f86fe2802",
+  "MjEuMTAuMTI=":"MjE3NTU0ODg=",
+  "MjA0MjYyMjI=":"MjA0MjYzOTI=",
+  "MjEuMTIuMDQ=":"MjE2Mzk2OTU=",
+  "MjIuMDEuMTg=":"MjM3OTU1MzA=",
+  "MjIuMDEuMTk=":"MjIwNjk3MDQ=",
+  "notice": {
+    "title" : "公告",
+    "version" : "22.03.1",
+    "info" : "首页不显示正在修复中，<font color=#FF0000>目前搜索正常，可以使用搜索功能</font>,bug正在修复中！",
+    "time": 3000,
+    "visible" : false
+
+  },
+
+
+
+  "noticeForHome": [
+        {
+      "tips": "<font color=#FF0000>更多绿色软件请加微信：carp186</font>",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYzNTcxOQ==&mid=2247486611&idx=1&sn=e825ad924d8b09bccf8798e0bdd52ccf&chksm=cf0030fbf877b9edbf49fcdede7532eb2e4840d4d8d84064cb5ff9ed592c38110dffd772cdf7#rd"
+    },
+            {
+      "tips": "<font color=#10c3a6>更多绿色软件请加微信：carp186</font>",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3OTYzNTcxOQ==&mid=2247486611&idx=1&sn=e825ad924d8b09bccf8798e0bdd52ccf&chksm=cf0030fbf877b9edbf49fcdede7532eb2e4840d4d8d84064cb5ff9ed592c38110dffd772cdf7#rd"
+    }
+  ],
+  
+  "subscribes": [
+    
+   
+  ], 
+  "subscribeManager": {
+    "update": "22.01.21",
+    "push": [
+{
+        "name": "内置源",
+        "link": "EkanPro://eyJuYW1lIjoi5YaF572u5rqQIiwiZGVmYXVsdCI6Imh0dHA6Ly9wYW5kb3duLnByby9hcHAvc3Vic2NyaWJlLmpzb24iLCJzcGFyZSI6Imh0dHA6Ly9wYW5kb3duLnByby9hcHAvc3Vic2NyaWJlLmpzb24ifQ=="
+      }
+    ],
+    
+    "forbid": ["订阅1","订阅2"],
+    "close": ["订阅1","订阅2"],
+    "open": ["订阅1","订阅2"],
+    "sort": ["订阅1","订阅2"]
+  },
+
+  
+  
+  "adSwitch": {
+       "splash": false,
+        "banner": false,
+        "insert": false,
+        "reward": false,
+        "information": false
+  },
+
+
+
+  "setting": {
+    "openSuggest": false
+  },
+
+
+
+  "noJump": [
+    "v2.thefatherofsalmon.com",
+    "gmanager.php?openread="
+  ],
+  
+  
+ 
+
+
+  "shieldManager": {
+      "下架": {
+      "year": "2021",
+      "type": "剧集"
+  }
+  }
+}
