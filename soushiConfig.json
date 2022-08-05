@@ -1,0 +1,108 @@
+
+{
+    
+  "update": {
+    "title" : "更新",
+    "version" : "22.07.31",
+    "info" : "修复上个版本遗留的bug<br>嗅探器等使用浏览器的代码<br>辅助工具新增Html加解密，String测试工具改为使用外置数据（以后更新记录就不会消失了）<br>辅助工具新增Html加解密，String测试工具<br><font color=#FF0000>修改包名，安装后会出现两个易看Pro</font><br>关注<font color=#FF0000>微信公众号:显而易看</font>查看更多更新日志",
+    "url" : "https://wwn.lanzout.com/iEupk08rc0xg",
+    "visible" : true,
+    "cancelable" : false
+  },
+  
+  "cecf0df7fc0e2972cee651419177ac87":"1fce7405e1e9e18543cd5095ce84a677",
+  "16b4c7dc0b7f86e533036d3222bf513f":"620345857628b8197a3f931f47b968ca",
+  "76e800de0f4052ad77c5b8dc741efdef":"2e1f06d0458395f790c1fdea5cdc8ce3",
+  "c481104876efc3709530eaa512186d9c":"ee2b5b6fd67426e664d3aa3f86fe2802",
+  "MjEuMTAuMTI=":"MjE3NTU0ODg=",
+  "MjA0MjYyMjI=":"MjA0MjYzOTI=",
+  "MjEuMTIuMDQ=":"MjE2Mzk2OTU=",
+  "MjIuMDEuMTg=":"MjM3OTU1MzA=",
+  "MjIuMDEuMTk=":"MjIwNjk3MDQ=",
+  "MjIuMDMuMDQ=":"MjM3ODY4ODE=",
+  "MjIuMDMuMTA=":"MjM3ODY4ODI=",
+  "MjIuMDQuMDI=":"MjM0NTIxMDc=",
+  "MjIuMDQuMDM=":"MjM0NTIxMDY=",
+  "MjIuMDQuMjA=":"MjQ3MDIyMjk=",
+  "MjIuMDUuMTE=":"MjIuMDUuMTE=",
+  "MjIuMDUuMTFB":"MjMxMzcxNTE=",
+  "MjIuMDUuMTI=":"MjMxNDUzNDA=",
+  "MjMxNDUzNDE=":"Mjc4MDMyMzI=",
+  "MjIuMDcuMzA=":"MjU2MzMyODA=",
+  "MjIuMDcuMzE=":"Mjc4MDMyMjM=",
+  "MjcyMTcyNzc=":"",
+  "notice": {
+    "title" : "软件即将更新",
+    "version" : "22.07.28",
+    "info" : "及时备份下载，历史，自定义规则以及收藏数据，以免数据丢失",
+    "time": 3000,
+    "visible" : false
+
+  },
+
+
+
+  "noticeForHome": [
+        {
+      "tips": "<font color=#FF0000>禁止将此网络安全工具作为影视软件使用！</font>",
+      "url": "https://ekan.pro/about.html"
+    },
+            {
+      "tips": "<font color=#10c3a6>我的页面有去除广告开关</font>",
+      "url": "about:blank"
+    }
+  ],
+  
+  "subscribes": [
+    
+   
+  ], 
+  "subscribeManager": {
+    "update": "22.08.04",
+    "push": [
+{
+        "name": "自由如风",
+        "link": "EkanPro://eyJuYW1lIjoi6Ieq55Sx5aaC6aOOIiwiZGVmYXVsdCI6Imh0dHBzOlwvXC93d3cuZWthbi5wcm9cL2pzb25cL3N1YnNjcmliZS5qc29uIiwic3BhcmUiOiJodHRwczpcL1wvZWthbi0xMjUzODU2MDkwLmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbVwvenlyZi5qc29uIn0="
+      }
+    ],
+    
+    "forbid": ["订阅1","订阅2"],
+    "close": ["订阅1","订阅2"],
+    "open": ["订阅1","订阅2"],
+    "sort": ["订阅1","订阅2"]
+  },
+
+  
+  
+  "adSwitch": {
+       "splash": true,
+        "banner": true,
+        "insert": true,
+        "reward": true,
+        "information": true
+  },
+
+
+
+  "setting": {
+    "openSuggest": false
+  },
+
+
+
+  "noJump": [
+    "v2.thefatherofsalmon.com",
+    "gmanager.php?openread="
+  ],
+  
+  
+ 
+
+
+  "shieldManager": {
+      "下架": {
+      "year": "2021",
+      "type": "剧集"
+  }
+  }
+}
